@@ -1,0 +1,7 @@
+Hello! This is a sample text file.
+
+It contains numbers like 123 and special characters such as @, #, and %.
+We need to clean it up and extract only words.
+Line 4 has some numbers too: 456, 789.
+
+Enjoy learning Python 3! Let's go.
