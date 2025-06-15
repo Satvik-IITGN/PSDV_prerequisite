@@ -7,3 +7,4 @@ Line 4 has some numbers too: 456, 789.
 Enjoy learning Python 3! Let's go.
 
 merging line Hello
+yello learning merging
